@@ -60,6 +60,7 @@ df['date'] = date_array
 df.set_index('date', inplace=True)
 print(df)
 
+df.to_csv('prices.csv')
 
 
 
