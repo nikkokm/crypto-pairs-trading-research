@@ -1,9 +1,0 @@
-# Created by .ignore support plugin (hsz.mobi)
-
-# IntelliJ project files
-__pycache__
-.idea
-*.iml
-out
-gen
-book.ipynb
